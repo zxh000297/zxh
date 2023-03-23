@@ -133,24 +133,15 @@ CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/index.m3u8
 CCTV17,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv17/index.m3u8
 CCTV4欧洲,http://39.136.173.100/hlsmgsplive.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
 CCTV4美洲,http://39.136.173.100/hlsmgsplive.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
-CCTV4欧洲,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
-CCTV4美洲,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
-CCTV4欧洲,http://1.189.99.196/hlsmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
-CCTV4美洲,http://1.189.99.196/hlsmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
-CCTV4欧洲,http://1.189.99.196/h5zb.live.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
-CCTV4美洲,http://1.189.99.196/h5zb.live.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
 CCTV4欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
 CCTV4美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
 CCTV4欧洲,http://222.128.98.255:4000/rtp/239.3.1.213:4220
 CCTV4美洲,http://222.128.98.255:4000/rtp/239.3.1.214:4220
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,http://111.31.26.166/tlivecloud-ipv6.ysp.cctv.cn/001/2000266303.m3u8
 CCTV4K,http://hls.ye23.vip/dl/4k.cctv.php
 CCTV4K,http://hls.ye23.vip/dl/4kk.cctv.php
 CCTV4K,http://r.jdshipin.com/krMB5
 CCTV4K,http://61.147.210.69:8101/livews-tp4k.cctv.cn/live/4K0219.stream/1.m3u8
-CCTV4K,http://iptva.cn/api/M3u8/Index?id=777&card=99982475359
-CCTV4K,http://iptva.cn/api/M3u8/Index?id=778&card=99982475359
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
 
@@ -289,8 +280,6 @@ CCTV4K,http://iptva.cn/api/M3u8/Index?id=778&card=99982475359
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 凤凰中文,http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯,http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
@@ -332,26 +321,24 @@ CETV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u
 4K超高清电影,http://r.jdshipin.com/B7sfp
 4K超高清电影,http://r.jdshipin.com/5DWJk
 4K超高清电影,http://159.75.85.63:5681/sxg.php
-4K超高清电影,http://iptva.cn/api/M3u8/Index?id=764&card=99982475359
-4K超高清电影,http://iptva.cn/api/M3u8/Index?id=764&card=61769016159
 峨眉电影,http://xstartx.com:4000/rtp/239.93.0.252:5140
 峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=2
 峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=2
 峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影,http://r.jdshipin.com/vFgDS
 IPTV淘电影,http://genglicai.3322.org:9901/tsfile/live/1022_1.m3u8
+IPTV淘电影,http://111.13.42.241/PLTV/88888888/224/3221226552/1.m3u8
 IPTV淘电影,http://219.142.149.55:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV淘电影,http://222-128-98-255.nhost.00cdn.com:4000/udp/239.3.1.250:8001
 IPTV淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 IPTV淘电影,http://router.tonyliangli.cn:4022/udp/239.3.1.250:8001
 IPTV淘电影,http://my.1024.net:84/live/100082/index.m3u8
 IPTV 4K超清,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+IPTV 4K超清,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
 IPTV 4K超清,http://219.142.149.55:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV 4K超清,http://222-128-98-255.nhost.00cdn.com:4000/udp/239.3.1.249:8001
 IPTV 4K超清,http://qnap.yjnhome.com:4000/udp/239.3.1.249:8001
 IPTV 4K超清,http://router.tonyliangli.cn:4022/udp/239.3.1.249:8001
-IPTV 4K超清,http://iptva.cn/api/M3u8/Index?id=839&card=99982475359
-IPTV 4K超清,http://iptva.cn/api/M3u8/Index?id=839&card=61769016159
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -369,13 +356,7 @@ CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/play
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
-亚洲电影,http://iptva.cn/api/M3u8/Index?id=859&card=99982475359
-欧美电影,http://iptva.cn/api/M3u8/Index?id=858&card=99982475359
 4K影院,http://xstartx.com:4000/rtp/239.93.0.43:5140
-精彩影视,http://iptva.cn/api/M3u8/Index?id=849&card=99982475359
-IHOT爱院线,http://iptva.cn/api/M3u8/Index?id=861&card=99982475359
-IHOT爱科幻,http://iptva.cn/api/M3u8/Index?id=862&card=99982475359
-IHOT爱经典,http://iptva.cn/api/M3u8/Index?id=867&card=99982475359
 精彩影视,http://223.83.183.218:9901/tsfile/live/0001_39.m3u8
 Drama,http://117.157.25.180:6610/270000001128/9900000089/index.m3u8?
 Movie,http://117.157.25.180:6610/270000001128/9900000090/index.m3u8?
